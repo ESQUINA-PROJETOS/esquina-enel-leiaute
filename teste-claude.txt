@@ -1,1 +1,1 @@
-Teste de commit feito pelo Claude em 10/11/2026 para validar o deploy automatico. Este arquivo pode ser apagado.
+Teste de commit via Claude em 10/11/2026 (segunda gravacao). Arquivo temporario, sera removido.
